@@ -1,5 +1,7 @@
 Prediction of Sales Price Of House 
 
-This project predicts the sale price of house using Linear Regression method.
-Project Successfully predicts sale price by analysing different parameters and 
-Accuracy-78%.
+Machine Learning Project which predicts Sales price of
+House by analysing different conditions / factor which can
+affect Sale Price. This project successfully predicts Sale price using Linear
+Regression Model
+Language Used - Python ( Pandas , Numpy , mataplotlib, Sklearn)
